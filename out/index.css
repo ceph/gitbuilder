@@ -30,12 +30,10 @@ div.extraspace {
 	right: -1px;
 	top: -1px;
 	background: white;
-	overflow: scroll;
 	font-size: 10pt;
 	width: 100%;
-	height: 25pt;
-	text-align: right;
-	white-space: nowrap;
+	text-align: center;
+	padding-bottom: 10pt;
 }
 #most_recent ul {
 	display: inline;
